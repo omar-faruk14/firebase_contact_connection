@@ -1,5 +1,12 @@
 const firebaseConfig = {
-  //   copy your firebase config informations
+  apiKey: "AIzaSyDacpXTWrgAE5dI3rwohUag_QReejmK2ck",
+  authDomain: "online-shop-87671.firebaseapp.com",
+  databaseURL: "https://online-shop-87671-default-rtdb.firebaseio.com",
+  projectId: "online-shop-87671",
+  storageBucket: "online-shop-87671.appspot.com",
+  messagingSenderId: "1028826049692",
+  appId: "1:1028826049692:web:1ad79772b3e7c10ab45159",
+  measurementId: "G-RR0MHBJ2XP"
 };
 
 // initialize firebase
